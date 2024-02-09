@@ -1,0 +1,1 @@
+RFP (Resist FingerPrinting) breaks mic and camera access for some sites (e.g. Google Meet).  The workaround is to add the problematic domain (e.g. *.google.com) to the exclusion list `privacy.resistFingerprinting.exemptedDomains`.
