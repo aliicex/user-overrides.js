@@ -32,3 +32,4 @@ user_pref("privacy.clearOnShutdown.history", false); // retain history
 user_pref("browser.compactmode.show", true); //compact mode is displayed by default
 user_pref("browser.uidensity", 1); //enables compact mode by default
 user_pref("privacy.spoof_english", 2); //spoofs english by default
+user_pref("security.OCSP.require", false); //too much breakage
